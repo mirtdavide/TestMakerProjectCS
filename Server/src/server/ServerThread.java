@@ -85,18 +85,12 @@ public class ServerThread extends Thread {
                         if(r>=0){
 
                             t=MultiServer.a.add(u, p);
-                            
-                            
-                            
-                            
-                            
+
                             
                             switch(t){
                                 
                                 case 1:
-                                    
-                           
-                                    
+
                                     
                                     break;
                                     
