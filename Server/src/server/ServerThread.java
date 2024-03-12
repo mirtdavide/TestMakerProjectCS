@@ -70,7 +70,7 @@ public class ServerThread extends Thread {
                 int result;
                 int t;
                 recString = inFromClient.readLine();
-                System.out.println(recString);
+                System.out.println("Client string: "+recString);
                 switch (recString) {
                     case "LOGIN":
                         

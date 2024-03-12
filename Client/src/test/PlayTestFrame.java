@@ -126,9 +126,13 @@ public class PlayTestFrame extends JFrame {
                 
                 
             }
-            
-            System.out.println(asc.get(0));
-            
+            if(asc.size()==0){
+                System.out.println("No Scores");
+            }else{
+                System.out.println(asc.get(0));
+
+            }
+
         } catch (IOException ex) {
             
         }
