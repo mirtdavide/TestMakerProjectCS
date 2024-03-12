@@ -5,7 +5,7 @@
 ### Disclaimer: the app screens are in italian but along with the description of each image should be understandable
 
 Hello!<br>
-So, this is basically the same app that i have made <a href="https://github.com/mirtdavide/TestMakerProject">here</a>, the only thing that changes is the handling of info.<br>
+So, this is basically the same app that i have made <a href="https://github.com/mirtdavide/TestMakerProject">here</a>, the only thing that changes is the handling of info and the fact that as an admin you no longer can add images to your question as i had a bit of trouble handling that.<br>
 With this project i tried to understand and implement a Client/Server Architecture using Java functions specifically for the UDP type. The functionalities of the app remain pretty much the same with the difference that this time the data we create from registering a new user or generating a test is stored server side while the client connects through the server and just gets the data from it.</br>
 Again the code is not written in a very professional way and it has the same issues of the non C/S version, (and the screens of the app are in italian as i made these projects during my high school years in Italy) but it made for a good training.
 <br >If you want to check out the<a href="https://github.com/mirtdavide/TestMakerProject"> non C/S part of the app click here</a> or click the other link up there as here i will post just some screens of the C/S implementetion.
